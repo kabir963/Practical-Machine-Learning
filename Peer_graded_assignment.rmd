@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning peer graded Assignment: Prediction Assignment
-author: "Palash Bhaumik"
+author: "Gandharva Kabir"
 date: "October 12, 2019"
 output: 
   html_document:
